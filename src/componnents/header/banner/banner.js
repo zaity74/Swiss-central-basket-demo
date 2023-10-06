@@ -23,7 +23,7 @@ const slides = [
         "author": 'steave bernanrd',
         "data": "20/12/2030",
         "category": "Le club",
-        "image": "https://www.swisscentralbasketball.ch/wp-content/uploads/2023/04/Swiss_central_basket_Lugano_tiger_20230413_04-980x551.jpg"
+        "image":"https://i2.wp.com/www.pb86.fr/wp-content/uploads/2023/06/Com-campagne-abo-2324.png?w=1080&ssl=1"
 
     },
     {
@@ -32,7 +32,7 @@ const slides = [
         "author": 'steave bernanrd',
         "data": "20/12/2030",
         "category": "Le club",
-        "image":"https://www.swisscentralbasketball.ch/wp-content/uploads/2023/02/Swiss_central_basket_starwings_20230205_03-980x634.jpg"
+        "image": "https://www.jlbourg-basket.com/wp-content/uploads/2021/12/PHOTO-ARTICLE-HORIZONTAL_Orleans.png"
 
     },
     {
@@ -41,7 +41,7 @@ const slides = [
         "author": 'steave bernanrd',
         "data": "20/12/2030",
         "category": "Evènement",
-        "image" : "https://www.swisscentralbasketball.ch/wp-content/uploads/2022/09/Swiss_central_basket_2022_23-SBL.png"
+        "image" : "https://www.jlbourg-basket.com/wp-content/uploads/2021/12/DSC00003-scaled-750x375.jpg"
 
     },
 ]
