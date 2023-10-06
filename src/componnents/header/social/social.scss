@@ -1,0 +1,140 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;1,100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kanit:ital,wght@1,600&family=Lato:ital,wght@0,100;0,300;0,400;0,700;1,100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@300;400;700&display=swap');
+ 
+ /* =========== Social barre ======= */
+ @media all and (min-width: 600px){
+    .social-next{
+        width: 100%;
+        height: 70px;
+        background-color: black;
+        display: flex;
+        justify-content: center;
+        .social-next-container{
+            width: 95%;
+            height: 100%;
+            display: flex;
+            align-items: center;
+            .action-text{
+                display: flex;
+                align-items: center;
+                font-family: 'Roboto Condensed';
+                font-weight: 600;
+                color: #E00D0D;
+                column-gap: 12px;
+                font-size: 18px;
+                text-transform: uppercase;
+                &:hover{
+                    
+                    .arrow-right{
+                        padding-left: 8px;
+                    }
+                }
+                .arrow-right{
+                    transition: all .6s ease-in-out;
+                }
+            }
+            .social-link{
+                width: 100%;
+                height: 100%;
+                flex: 2;
+                display: flex;
+                align-items: center;
+                justify-content: flex-start;
+                padding-left: 20px;
+                .icone-sociale{
+                    color: white;
+                    width: 2%;
+                    //height: 70%;
+                    display: flex;
+                    align-items: center;
+                    column-gap: 12px;
+                    margin-left: 8px;
+                }
+                .bi{
+                    color: white;
+                    font-size: 14px;
+                    padding-left: 12px;
+                    padding-right: 12px;
+                    font-family: 'Lato' !important;
+                    font-family: 400;
+                    font-style: inherit !important;
+                    letter-spacing: 1.2px;
+                    display: flex;
+                    align-items: center;
+                    column-gap: 8px;
+                }
+            }
+    
+        }
+    }
+ }
+ @media all and (max-width: 600px){
+    .social-next{
+        width: 100%;
+        height: auto;
+        background-color: black;
+        display: flex;
+        justify-content: center;
+        padding-top: 30px;
+        .social-next-container{
+            width: 95%;
+            height: 100%;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            .action-text{
+                display: flex;
+                align-items: center;
+                font-family: 'Roboto Condensed';
+                font-weight: 600;
+                color: #E00D0D;
+                column-gap: 12px;
+                font-size: 18px;
+                text-transform: uppercase;
+                &:hover{
+                    
+                    .arrow-right{
+                        padding-left: 8px;
+                    }
+                }
+                .arrow-right{
+                    transition: all .6s ease-in-out;
+                }
+            }
+            .social-link{
+                width: 100%;
+                height: 100%;
+                flex: 2;
+                display: flex;
+                flex-wrap: wrap;
+                align-items: center;
+                justify-content: center;
+                padding-left: 20px;
+                .icone-sociale{
+                    color: white;
+                    width: 2%;
+                    //height: 70%;
+                    display: flex;
+                    align-items: center;
+                    column-gap: 12px;
+                    margin-left: 8px;
+                }
+                .bi{
+                    color: white;
+                    font-size: 14px;
+                    padding-left: 12px;
+                    padding-right: 12px;
+                    font-family: 'Lato' !important;
+                    font-family: 400;
+                    font-style: inherit !important;
+                    letter-spacing: 1.2px;
+                    display: flex;
+                    align-items: center;
+                    column-gap: 8px;
+                }
+            }
+    
+        }
+    }
+ }

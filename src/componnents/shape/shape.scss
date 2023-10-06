@@ -1,0 +1,25 @@
+.line-container{
+    width: auto;
+    height: 100vh;
+    display: flex;
+    position: fixed;
+    top: 0; 
+    left: 0;
+    box-sizing: border-box;
+    z-index: 2000;
+    .line-red{
+        width: 6px;
+        height: 100%;
+        background-color: red; 
+    }
+    .line-black{
+        width: 6px;
+        height: 100%;
+        background-color: black; 
+    }
+    .line-white{
+        width: 6px;
+        height: 100%;
+        background-color: white; 
+    }
+}
