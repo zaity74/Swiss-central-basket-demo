@@ -20,55 +20,55 @@ const products = [
     {
         "title":"Shoes Nike 2020",
         "price":"80 €",
-        "image": 'http://all-sports-fund.ch/wp-content/uploads/2020/03/reference-0019.png',
+        "image": 'https://www.kickz.com/dw/image/v2/BGQV_PRD/on/demandware.static/-/Sites-kickz-master-catalog/default/dw14d8a3d7/images/large/mitchell_and_ness-NBA_NEW_JERSEY_NETS_1999_ALTERNATE_SWINGMAN_JERSEY_STEPHON_MARBURY-GREY-1.jpg?sw=660&q=95',
 
     },
     {
         "title":"Shoes Nike 2020",
         "price":"80 €",
-        "image": 'http://all-sports-fund.ch/wp-content/uploads/2020/03/reference-0007-1.png',
+        "image": 'https://www.kickz.com/dw/image/v2/BGQV_PRD/on/demandware.static/-/Sites-kickz-master-catalog/default/dw605b20e4/images/large/mcdavid-Hex_Shooter_Arm_Sleeve_Pair-scarlet-1.jpg?sw=660&q=95',
 
     },
     {
         "title":"Shoes Nike 2020",
         "price":"80 €",
-        "image": 'http://all-sports-fund.ch/wp-content/uploads/2020/03/reference-00013.png',
+        "image": 'https://www.kickz.com/dw/image/v2/BGQV_PRD/on/demandware.static/-/Sites-kickz-master-catalog/default/dwa196bad8/images/large/wilson-NBA_TEAM_MINI_HOOP_MIAMI_HEAT-red-1.jpg?sw=660&q=95',
 
     },
     {
         "title":"Shoes Nike 2020",
         "price":"80 €",
-        "image": 'http://all-sports-fund.ch/wp-content/uploads/2020/03/reference-0020.png',
+        "image": 'https://boutique.osports.fr/JL-bourg/18232-home_default/maillot-betclic-homme-rouge.jpg',
 
     },
     {
         "title":"Shoes Nike 2020",
         "price":"80 €",
-        "image": 'http://all-sports-fund.ch/wp-content/uploads/2020/03/reference-0024.png',
+        "image": 'https://www.kickz.com/dw/image/v2/BGQV_PRD/on/demandware.static/-/Sites-kickz-master-catalog/default/dwa57acbfd/images/large/mitchell_and_ness-NBA_CLEVELAND_CAVALIERS_2015_ALTERNATE_SWINGMAN_JERSEY_KEVIN_LOVE-navy-1.jpg?sw=660&q=95',
 
     },
     {
         "title":"Shoes Nike 2020",
         "price":"80 €",
-        "image": 'http://all-sports-fund.ch/wp-content/uploads/2020/03/reference-0026.png',
+        "image": 'https://www.kickz.com/dw/image/v2/BGQV_PRD/on/demandware.static/-/Sites-kickz-master-catalog/default/dw99709a3f/images/large/new_era-NBA_940_THE_LEAGUE_PHILADELPHIA_76ERS-royal_blue_red-1.jpg?sw=660&q=95',
 
     },
     {
         "title":"Shoes Nike 2020",
         "price":"80 €",
-        "image": 'http://all-sports-fund.ch/wp-content/uploads/2020/03/reference-0014.png',
+        "image": 'https://www.kickz.com/dw/image/v2/BGQV_PRD/on/demandware.static/-/Sites-kickz-master-catalog/default/dw33f9eb58/images/large/jordan-ULTIMATE_2_0_8P_GRAPHIC_Basketball-BLACK_BLACK_BLACK_WHITE-1.jpg?sw=660&q=95',
 
     },
     {
         "title":"Shoes Nike 2020",
         "price":"80 €",
-        "image": 'http://all-sports-fund.ch/wp-content/uploads/2020/03/reference-0004.png',
+        "image": 'https://www.kickz.com/dw/image/v2/BGQV_PRD/on/demandware.static/-/Sites-kickz-master-catalog/default/dw292550f3/images/large/jordan-Ultimate_2_0_Basketball-ICE_BLUE_WHITE_VACHETTA_TAN-1.jpg?sw=660&q=95',
 
     },
     {
         "title":"Shoes Nike 2020",
         "price":"80 €",
-        "image": 'http://all-sports-fund.ch/wp-content/uploads/2020/03/reference-00012.png',
+        "image": 'https://www.kickz.com/dw/image/v2/BGQV_PRD/on/demandware.static/-/Sites-kickz-master-catalog/default/dw51fd9c56/images/large/jordan-Ultimate_2_0_Basketball-UNIVERSITY_RED_BLACK_WHITE_BLACK-1.jpg?sw=660&q=95',
 
     },
 ]

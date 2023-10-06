@@ -87,6 +87,7 @@ const handleFilter = (content) => {
     setFilter(content);
     console.log(filter, 'ICI');
 };
+
 // Variables
 return (
 <>
@@ -175,9 +176,7 @@ return (
                                             key={index}
                                         >
                                             <p className='post-date'>
-                                                <Moment format="MMM Do YYYY">
                                                 {article.data}
-                                                </Moment>
                                             </p>
                                             <h3 className='post-title'>{article.title.length > 100 ? article.title.substring(0, 94) + '...': article.title}</h3>
                                             <p className='post-resume'>{article.content.length > 80 ? article.content.substring(0, 80) + '...': article.content}</p>
@@ -242,9 +241,7 @@ return (
                                             key={index}
                                         >
                                             <p className='post-date'>
-                                                <Moment format="MMM Do YYYY">
                                                 {article.data}
-                                                </Moment>
                                             </p>
                                             <h3 className='post-title'>{article.title.length > 100 ? article.title.substring(0, 94) + '...': article.title}</h3>
                                             <p className='post-resume'>{article.content.length > 80 ? article.content.substring(0, 80) + '...': article.content}</p>
