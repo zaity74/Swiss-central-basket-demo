@@ -31,7 +31,7 @@ const articles = [
         "author": 'steave bernanrd',
         "data": "20/12/2030",
         "category": "Le club",
-        "image": "https://www.swisscentralbasketball.ch/wp-content/uploads/2023/04/Swiss_central_basket_Lugano_tiger_20230413_04-980x551.jpg"
+        "image": "https://i2.wp.com/www.pb86.fr/wp-content/uploads/2023/06/Com-campagne-abo-2324.png?w=1080&ssl=1"
 
     },
     {
@@ -40,7 +40,7 @@ const articles = [
         "author": 'steave bernanrd',
         "data": "20/12/2030",
         "category": "Le club",
-        "image":"https://www.swisscentralbasketball.ch/wp-content/uploads/2023/02/Swiss_central_basket_starwings_20230205_03-980x634.jpg"
+        "image":"https://www.orleansloiretbasket.fr/upload/UserFiles/Image/OLBMD01_2324-0120.jpg"
 
     },
     {
@@ -49,7 +49,7 @@ const articles = [
         "author": 'steave bernanrd',
         "data": "20/12/2030",
         "category": "Evènement",
-        "image" : "https://www.swisscentralbasketball.ch/wp-content/uploads/2022/09/Swiss_central_basket_2022_23-SBL.png"
+        "image" : "https://www.orleansloiretbasket.fr/upload/Vign10929Rem2_OLB-0582.jpg"
 
     },
     {
@@ -58,7 +58,7 @@ const articles = [
         "author": 'steave bernanrd',
         "data": "20/12/2030",
         "category": "Evènement",
-        "image" : "https://www.swisscentralbasketball.ch/wp-content/uploads/2022/09/Swiss_central_basket_2022_23-SBL.png"
+        "image" : "https://www.orleansloiretbasket.fr/upload/Vign10929Rem2_OLB-0582.jpg"
 
     },
     {

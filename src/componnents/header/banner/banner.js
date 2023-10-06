@@ -32,7 +32,7 @@ const slides = [
         "author": 'steave bernanrd',
         "data": "20/12/2030",
         "category": "Le club",
-        "image": "https://www.jlbourg-basket.com/wp-content/uploads/2021/12/PHOTO-ARTICLE-HORIZONTAL_Orleans.png"
+        "image": "https://www.orleansloiretbasket.fr/upload/Vign10929Rem2_OLB-0582.jpg"
 
     },
     {
@@ -41,7 +41,7 @@ const slides = [
         "author": 'steave bernanrd',
         "data": "20/12/2030",
         "category": "Evènement",
-        "image" : "https://www.jlbourg-basket.com/wp-content/uploads/2021/12/DSC00003-scaled-750x375.jpg"
+        "image" : "https://www.orleansloiretbasket.fr/upload/UserFiles/Image/OLBMD01_2324-0120.jpg"
 
     },
 ]

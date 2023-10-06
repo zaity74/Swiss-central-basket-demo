@@ -23,7 +23,7 @@ const [tag, inView] = useInView({
   });
 const players = [
     {
-        'image' : 'https://www.swisscentralbasketball.ch/wp-content/uploads/2022/09/Swiss_central_basket_2022_23-HU18-Haile-Kebron.png',
+        'image' : 'https://parisbasketball.com/wp-content/uploads/2023/08/LEON-KRATZER@15x-min.png',
         'name' : 'Kebron Haile',
         'position' : '1,2,3',
         'number' : '2',
@@ -31,7 +31,7 @@ const players = [
         'note' : ''
     },
     {
-        'image' : 'https://www.swisscentralbasketball.ch/wp-content/uploads/2022/09/Swiss_central_basket_2022_23-HU18-Kofal-Lou-Allen.png',
+        'image' : 'https://parisbasketball.com/wp-content/uploads/2023/08/Sebastian-Herrera@15x-min.png',
         'name' : 'Lou Allen Kofal',
         'position' : '1,2,3',
         'number' : '4',
@@ -39,7 +39,7 @@ const players = [
         'note' : ''
     },
     {
-        'image' : 'https://www.swisscentralbasketball.ch/wp-content/uploads/2022/09/Swiss_central_basket_2022_23-HU18-Hobbins-Silvan.png',
+        'image' : 'https://parisbasketball.com/wp-content/uploads/2023/08/TJ-SHORTS@15x-min.png',
         'name' : 'Silvan Hobins',
         'position' : '1,2,3',
         'number' : '28',
@@ -47,7 +47,7 @@ const players = [
         'note' : ''
     },
     {
-        'image' : 'https://www.swisscentralbasketball.ch/wp-content/uploads/2022/09/Swiss_central_basket_2022_23-HU18-Jadama-Tisan.png',
+        'image' : 'https://parisbasketball.com/wp-content/uploads/2023/08/enzo-shahrvin@15x-min.png',
         'name' : 'Tisan Jadama',
         'position' : '1,2,3',
         'number' : '8',
